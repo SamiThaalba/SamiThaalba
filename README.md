@@ -12,7 +12,7 @@
 
 **Languages:** Java · C++ · C# · Dart · JavaScript · TypeScript  
 **Frontend:** React · Tailwind CSS  
-**Backend:** ASP.NET Core · Spring Boot · Node.js  
+**Backend:** ASP.NET Core · Spring Boot  
 **Mobile:** Flutter  
 **Cloud & DevOps:** AWS · Docker · GitHub Actions  
 **Databases:** SQL Server · PostgreSQL · Firebase
